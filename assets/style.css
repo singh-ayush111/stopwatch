@@ -10,7 +10,7 @@ body {
     min-width: 100%;
     font-size: 62.5%;
     overflow: hidden;
-    background: linear-gradient(to right, #8e2de5, #4a05y8);
+    background: linear-gradient(to right, #8e2de5, #FF0000);
     font-family: 'Poppins', sans-serif;
 }
 
